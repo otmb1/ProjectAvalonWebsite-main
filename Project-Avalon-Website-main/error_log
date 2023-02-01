@@ -1,0 +1,338 @@
+[06-Dec-2021 19:15:27 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/community.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/community.php on line 3
+[06-Dec-2021 19:15:36 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/community.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/community.php on line 3
+[06-Dec-2021 19:15:42 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/community.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/community.php on line 3
+[06-Dec-2021 19:15:45 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/community.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/community.php on line 3
+[06-Dec-2021 19:15:56 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/community.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/community.php on line 3
+[06-Dec-2021 19:16:16 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/community.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/community.php on line 3
+[06-Dec-2021 19:36:11 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/community.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/community.php on line 3
+[06-Dec-2021 19:36:14 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/community.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/community.php on line 3
+[06-Dec-2021 19:36:14 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/community.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/community.php on line 3
+[06-Dec-2021 19:36:15 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/community.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/community.php on line 3
+[06-Dec-2021 19:36:15 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/community.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/community.php on line 3
+[07-Dec-2021 06:31:47 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/community.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/community.php on line 3
+[07-Dec-2021 11:38:51 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/community.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/community.php on line 3
+[07-Dec-2021 12:48:37 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/community.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/community.php on line 3
+[07-Dec-2021 12:48:41 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/community.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/community.php on line 3
+[08-Dec-2021 10:14:53 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/community.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/community.php on line 3
+[08-Dec-2021 13:59:56 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/community.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/community.php on line 3
+[08-Dec-2021 18:04:24 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/community.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/community.php on line 3
+[08-Dec-2021 20:09:44 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/community.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/community.php on line 3
+[10-Dec-2021 16:48:25 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/community.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/community.php on line 3
+[10-Dec-2021 16:48:42 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/community.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/community.php on line 3
+[10-Dec-2021 17:51:44 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/community.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/community.php on line 3
+[10-Dec-2021 17:51:48 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/community.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/community.php on line 3
+[10-Dec-2021 17:53:20 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/community.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/community.php on line 3
+[10-Dec-2021 21:01:12 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/community.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/community.php on line 3
+[10-Dec-2021 21:14:10 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/community.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/community.php on line 3
+[10-Dec-2021 21:21:58 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/community.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/community.php on line 3
+[11-Dec-2021 15:08:43 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/community.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/community.php on line 3
+[11-Dec-2021 15:08:50 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/community.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/community.php on line 3
+[11-Dec-2021 15:11:40 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/community.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/community.php on line 3
+[11-Dec-2021 18:11:57 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/community.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/community.php on line 3
+[12-Dec-2021 15:57:30 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/community.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/community.php on line 3
+[12-Dec-2021 20:18:11 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/community.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/community.php on line 3
+[12-Dec-2021 20:18:13 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/community.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/community.php on line 3
+[12-Dec-2021 21:21:32 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/register.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/register.php on line 11
+[12-Dec-2021 23:03:30 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/community.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/community.php on line 3
+[12-Dec-2021 23:03:31 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/community.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/community.php on line 3
+[12-Dec-2021 23:51:26 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/community.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/community.php on line 3
+[13-Dec-2021 16:28:24 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/register.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/register.php on line 11
+[13-Dec-2021 16:40:22 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/index.php on line 9
+[13-Dec-2021 16:40:26 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/index.php on line 9
+[13-Dec-2021 16:40:48 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/index.php on line 9
+[13-Dec-2021 16:40:52 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/index.php on line 9
+[13-Dec-2021 16:40:52 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/index.php on line 9
+[13-Dec-2021 16:41:18 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/community.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/community.php on line 9
+[13-Dec-2021 16:41:21 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/contactus.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/contactus.php on line 9
+[13-Dec-2021 16:41:25 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/index.php on line 9
+[13-Dec-2021 16:41:33 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/index.php on line 9
+[13-Dec-2021 16:42:26 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/index.php on line 9
+[13-Dec-2021 16:45:04 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/register.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/register.php on line 11
+[13-Dec-2021 16:48:30 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/login.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/login.php on line 5
+[13-Dec-2021 16:48:51 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/index.php on line 9
+[13-Dec-2021 16:48:55 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/index.php on line 9
+[13-Dec-2021 16:48:57 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/index.php on line 9
+[13-Dec-2021 16:49:05 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/index.php on line 9
+[13-Dec-2021 16:49:10 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/community.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/community.php on line 9
+[13-Dec-2021 16:52:36 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/index.php on line 9
+[13-Dec-2021 16:52:38 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/index.php on line 9
+[13-Dec-2021 16:52:44 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/index.php on line 9
+[13-Dec-2021 16:52:49 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/donotfai/playavalon.co.uk/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/donotfai/playavalon.co.uk/index.php on line 9
+[13-Dec-2021 18:30:56 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/donotfai/playavalon.co.uk/index.php:49
+Stack trace:
+#0 /home/donotfai/playavalon.co.uk/index.php(49): mysqli_fetch_array()
+#1 {main}
+  thrown in /home/donotfai/playavalon.co.uk/index.php on line 49
+[13-Dec-2021 18:31:11 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/donotfai/playavalon.co.uk/index.php:49
+Stack trace:
+#0 /home/donotfai/playavalon.co.uk/index.php(49): mysqli_fetch_array()
+#1 {main}
+  thrown in /home/donotfai/playavalon.co.uk/index.php on line 49
+[13-Dec-2021 18:31:49 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/donotfai/playavalon.co.uk/login.php:14
+Stack trace:
+#0 /home/donotfai/playavalon.co.uk/login.php(14): mysqli_fetch_array()
+#1 {main}
+  thrown in /home/donotfai/playavalon.co.uk/login.php on line 14
+[13-Dec-2021 18:36:32 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/donotfai/playavalon.co.uk/index.php:49
+Stack trace:
+#0 /home/donotfai/playavalon.co.uk/index.php(49): mysqli_fetch_array()
+#1 {main}
+  thrown in /home/donotfai/playavalon.co.uk/index.php on line 49
+[13-Dec-2021 18:47:55 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/donotfai/playavalon.co.uk/index.php:49
+Stack trace:
+#0 /home/donotfai/playavalon.co.uk/index.php(49): mysqli_fetch_array()
+#1 {main}
+  thrown in /home/donotfai/playavalon.co.uk/index.php on line 49
+[13-Dec-2021 18:51:20 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/donotfai/playavalon.co.uk/index.php:49
+Stack trace:
+#0 /home/donotfai/playavalon.co.uk/index.php(49): mysqli_fetch_array()
+#1 {main}
+  thrown in /home/donotfai/playavalon.co.uk/index.php on line 49
+[13-Dec-2021 18:55:35 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/donotfai/playavalon.co.uk/register.php:14
+Stack trace:
+#0 /home/donotfai/playavalon.co.uk/register.php(14): mysqli_query()
+#1 {main}
+  thrown in /home/donotfai/playavalon.co.uk/register.php on line 14
+[13-Dec-2021 18:56:48 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/donotfai/playavalon.co.uk/index.php:49
+Stack trace:
+#0 /home/donotfai/playavalon.co.uk/index.php(49): mysqli_fetch_array()
+#1 {main}
+  thrown in /home/donotfai/playavalon.co.uk/index.php on line 49
+[13-Dec-2021 18:56:49 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/donotfai/playavalon.co.uk/register.php:14
+Stack trace:
+#0 /home/donotfai/playavalon.co.uk/register.php(14): mysqli_query()
+#1 {main}
+  thrown in /home/donotfai/playavalon.co.uk/register.php on line 14
+[13-Dec-2021 19:09:09 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/donotfai/playavalon.co.uk/index.php:49
+Stack trace:
+#0 /home/donotfai/playavalon.co.uk/index.php(49): mysqli_fetch_array()
+#1 {main}
+  thrown in /home/donotfai/playavalon.co.uk/index.php on line 49
+[13-Dec-2021 22:02:25 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/donotfai/playavalon.co.uk/index.php:49
+Stack trace:
+#0 /home/donotfai/playavalon.co.uk/index.php(49): mysqli_fetch_array()
+#1 {main}
+  thrown in /home/donotfai/playavalon.co.uk/index.php on line 49
+[13-Dec-2021 22:14:48 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/donotfai/playavalon.co.uk/index.php:49
+Stack trace:
+#0 /home/donotfai/playavalon.co.uk/index.php(49): mysqli_fetch_array()
+#1 {main}
+  thrown in /home/donotfai/playavalon.co.uk/index.php on line 49
+[13-Dec-2021 22:18:23 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/donotfai/playavalon.co.uk/index.php:49
+Stack trace:
+#0 /home/donotfai/playavalon.co.uk/index.php(49): mysqli_fetch_array()
+#1 {main}
+  thrown in /home/donotfai/playavalon.co.uk/index.php on line 49
+[13-Dec-2021 22:26:52 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/donotfai/playavalon.co.uk/index.php:49
+Stack trace:
+#0 /home/donotfai/playavalon.co.uk/index.php(49): mysqli_fetch_array()
+#1 {main}
+  thrown in /home/donotfai/playavalon.co.uk/index.php on line 49
+[13-Dec-2021 22:38:02 Europe/London] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_error() expects exactly 1 argument, 0 given in /home/donotfai/playavalon.co.uk/index.php:50
+Stack trace:
+#0 /home/donotfai/playavalon.co.uk/index.php(50): mysqli_error()
+#1 {main}
+  thrown in /home/donotfai/playavalon.co.uk/index.php on line 50
+[13-Dec-2021 22:42:01 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/donotfai/playavalon.co.uk/index.php:49
+Stack trace:
+#0 /home/donotfai/playavalon.co.uk/index.php(49): mysqli_fetch_array()
+#1 {main}
+  thrown in /home/donotfai/playavalon.co.uk/index.php on line 49
+[14-Dec-2021 00:52:32 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/donotfai/playavalon.co.uk/postcreate.php:14
+Stack trace:
+#0 /home/donotfai/playavalon.co.uk/postcreate.php(14): mysqli_query()
+#1 {main}
+  thrown in /home/donotfai/playavalon.co.uk/postcreate.php on line 14
+[14-Dec-2021 00:52:41 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/donotfai/playavalon.co.uk/postcreate.php:14
+Stack trace:
+#0 /home/donotfai/playavalon.co.uk/postcreate.php(14): mysqli_query()
+#1 {main}
+  thrown in /home/donotfai/playavalon.co.uk/postcreate.php on line 14
+[14-Dec-2021 00:54:31 Europe/London] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/donotfai/playavalon.co.uk/postcreate.php:14
+Stack trace:
+#0 /home/donotfai/playavalon.co.uk/postcreate.php(14): mysqli_query()
+#1 {main}
+  thrown in /home/donotfai/playavalon.co.uk/postcreate.php on line 14
+[14-Dec-2021 01:46:51 Europe/London] PHP Parse error:  Unclosed '{' on line 43 does not match ')' in /home/donotfai/playavalon.co.uk/post.php on line 45
+[14-Dec-2021 01:46:56 Europe/London] PHP Parse error:  Unclosed '{' on line 43 does not match ')' in /home/donotfai/playavalon.co.uk/post.php on line 45
+[14-Dec-2021 01:47:08 Europe/London] PHP Parse error:  Unclosed '{' on line 43 does not match ')' in /home/donotfai/playavalon.co.uk/post.php on line 45
